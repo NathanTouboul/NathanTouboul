@@ -38,7 +38,6 @@
 
 <img align="left" alt="NathanTouboul | Fusion360" width="35px" src="https://img.icons8.com/color/48/000000/autodesk-fusion-360.png"/>
 
-<img align="left" alt="NathanTouboul | ANSYS" width="68px" src="https://www.ansys.com/content/dam/company/brand/logos/ansys-logos/ansys-logo.jpg" />
 
 <br></br>
 
