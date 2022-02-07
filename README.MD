@@ -10,7 +10,7 @@ ___
 ### Connect with me 
 [!["NathanTouboul | LinkedIn"](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/nathantouboul/)
 
-___
+
 ### Languages and tools
 
 <img align="left" alt="NathanTouboul | Python" width="35px" src="https://img.icons8.com/fluency/48/000000/python.png" />
@@ -24,7 +24,7 @@ ___
 <img align="left" alt="NathanTouboul | LaTex" width="35px" src="https://cdn.worldvectorlogo.com/logos/latex.svg"/>
 
 <br></br>
-___
+
 
 ### CAD / FEM Softwares
 
@@ -35,8 +35,9 @@ ___
 
 <img align="left" alt="NathanTouboul | Fusion360" width="35px" src="https://img.icons8.com/color/48/000000/autodesk-fusion-360.png"/>
 
-
 <br></br>
+
+___
 
 ### Experiences with
 
