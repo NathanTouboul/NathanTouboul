@@ -1,16 +1,16 @@
-### Hi there, my name is Nathan 👋
+# Hi there, my name is Nathan 👋
 
 ## I am a french guy in the US, recently graduated engineer 🎓
 
-🤖 Currently looking for a job in robotics
-🌱 Currently learning JS and Qt
-💪 Interested in space exploration, robotics, fitness and health 
-  
+
+🤖 Currently looking for a job in robotics <br/>
+🌱 Currently learning JS and Qt <br/>
+💪 Interested in space exploration, robotics, fitness and health <br/>
+___
 ### Connect with me 
 [!["NathanTouboul | LinkedIn"](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/nathantouboul/)
 
-<br></br>
-
+___
 ### Languages and tools
 
 <img align="left" alt="NathanTouboul | Python" width="35px" src="https://img.icons8.com/fluency/48/000000/python.png" />
@@ -24,6 +24,7 @@
 <img align="left" alt="NathanTouboul | LaTex" width="35px" src="https://cdn.worldvectorlogo.com/logos/latex.svg"/>
 
 <br></br>
+___
 
 ### CAD / FEM Softwares
 
