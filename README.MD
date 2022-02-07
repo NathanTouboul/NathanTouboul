@@ -7,11 +7,7 @@
 💪 Interested in space exploration, robotics, fitness and health 
   
 ### Connect with me 
-
-
-
-
-<img align="left" alt="NathanTouboul | LinkedIn" width="35px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
+[!["NathanTouboul | LinkedIn"](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/nathantouboul/)
 
 <br></br>
 
