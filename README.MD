@@ -17,13 +17,16 @@ ___
 
 <img align="left" alt="NathanTouboul | Cpp" width="35px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 
-<img align="left" alt="NathanTouboul | Linux" width="50px" src="https://linuxfoundation.org/wp-content/uploads/linux.svg
-"/>
-<img align="left" alt="NathanTouboul | BASH" width="30px" src="https://bashlogo.com/img/symbol/png/full_colored_dark.png
-"/>
+<img align="left" alt="NathanTouboul | Linux" width="50px" src="https://linuxfoundation.org/wp-content/uploads/linux.svg"/>
+<img align="left" alt="NathanTouboul | BASH" width="30px" src="https://bashlogo.com/img/symbol/png/full_colored_dark.png"/>
+
 <img align="left" alt="NathanTouboul | Matlab" width="35px" src="https://img.icons8.com/fluency/48/000000/matlab.png"/>
 
 <img align="left" alt="NathanTouboul | Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png"/>
+
+
+<img align="left" alt="NathanTouboul | Qt" width="35px" src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg"/>
+
 
 <img align="left" alt="NathanTouboul | LaTex" width="25px" src="https://cdn.worldvectorlogo.com/logos/latex.svg"/>
 
