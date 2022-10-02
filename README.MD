@@ -1,39 +1,53 @@
-# Hi there, I'm Nathan 👋
+# Bonjour, I'm Nathan ! 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=2FA5D8&center=true&vCenter=true&width=500&lines=Software+Engineer;Embedded+Systems;Robotics+-+Perception+and+Localization;Machine+Learning+-+Computer+Vision)](https://git.io/typing-svg)
 
-## Recently graduated engineer with 2 master's degree: Mechatronics and Aerospace 🎓
+<h3 align="center">Software Engineer @ <a href='https://www.qualcomm.com/products/application/automotive'>Qualcomm</a> 
+</h3>
+
+<br/>
 
 
-🤖 Interested in working in Robotics, Software and Machine Learning <br/>
-🌱 Currently learning Qt <br/>
-💪 Passionated in space exploration, robotics, fitness and health <br/>
+<p align="center">
+    <a href="https://www.linkedin.com/in/nathantouboul/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://nathantouboul.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white"></a>
+    <a href="https://www.youtube.com/channel/UCp5FDrjoWHdhCtCvl9Y63rQ/featured" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
+    
+</p>
+
+<br/>
+
+## A little bit about me 
 ___
-### Connect with me 
-[!["NathanTouboul | LinkedIn"](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/nathantouboul/)
+- Coming from France 🇫🇷 <br/>
+- Interested in working in Robotics, CV and ML 🤖 <br/>
+- Passionated in space exploration, robotics, fitness and health 💪 <br/>
 
 
-### Languages, OS and tools
+<br/>
 
-<img align="left" alt="NathanTouboul | Python" width="35px" src="https://img.icons8.com/fluency/48/000000/python.png"/>
+## Technologies
+___
 
-<img align="left" alt="NathanTouboul | Cpp" width="35px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<p align="center">
+    <a href="https://github.com/NathanTouboul?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+    <a href="https://github.com/NathanTouboul?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
+    <a href="https://github.com/NathanTouboul?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"></a>
+    <a href="https://github.com/NathanTouboul?tab=repositories&q=&type=&language=jupyter+notebook" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=flat-square&logo=Jupyter"></a>
+    <a target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"></a>
+    <a target="_blank"><img alt="Bash" src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white"></a>
+    <a target="_blank"><img alt="Repos" src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white"></a>
+    <a href="https://github.com/NathanTouboul?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
+    <a  target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white"></a>
+    <a target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"></a>
+    <a href="https://github.com/NathanTouboul?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
+    
+</p>
 
-<img align="left" alt="NathanTouboul | Linux" width="50px" src="https://linuxfoundation.org/wp-content/uploads/linux.svg"/>
-<img align="left" alt="NathanTouboul | BASH" width="30px" src="https://bashlogo.com/img/symbol/png/full_colored_dark.png"/>
-
-<img align="left" alt="NathanTouboul | Matlab" width="35px" src="https://img.icons8.com/fluency/48/000000/matlab.png"/>
-
-<img align="left" alt="NathanTouboul | Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png"/>
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanTouboul)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<img align="left" alt="NathanTouboul | Qt" width="35px" src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg"/>
 
-
-<img align="left" alt="NathanTouboul | LaTex" width="25px" src="https://cdn.worldvectorlogo.com/logos/latex.svg"/>
-
-<br></br>
-
-
-### CAD / FEM Softwares
+<!-- ### CAD / FEM Softwares
 
 <img align="left" alt="NathanTouboul | SolidWorks" width="35px" src="https://img.icons8.com/color/48/000000/solidworks.png"/>
 
@@ -42,18 +56,28 @@ ___
 
 <img align="left" alt="NathanTouboul | Fusion360" width="35px" src="https://img.icons8.com/color/48/000000/autodesk-fusion-360.png"/>
 
-<br></br>
+<br></br> -->
 
+<br/>
+
+
+## Always learning! Current courses: 
 ___
 
-### Experiences with
+- https://www.udemy.com/course/advanced-computer-vision/
+- https://www.algoexpert.io/content#algoexpert
+- https://www.algoexpert.io/content#mlexpert
 
-- Control Theory - PID / LQG controllers - Kinematics & Dynamics in  Robotics systems 🤖
+<br/>
+
+## My Education
+___
 - Path and Motion Planning - SLAM - Kalman Filter - Lidar - Autonomous Vehices 👁‍🗨🚗
 - Machine Learning - Convolutional/Recurrent Neural Networks - Clustering - PCA 💻🌱
-- Mechanical systems ⚙ - Fluid Dynamics 🌊 - Thermodynamics 🔥
+- Control Theory - PID / LQG controllers - Kinematics & Dynamics in  Robotics systems 🤖
 
 [comment]: # (References)
 
 [Linkedin]: https://www.linkedin.com/in/nathantouboul/
+
 
