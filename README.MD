@@ -1,7 +1,10 @@
-# Bonjour, I'm Nathan ! 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=2FA5D8&center=true&vCenter=true&width=500&lines=Software+Engineer;Embedded+Systems;Robotics+-+Perception+and+Localization;Machine+Learning+-+Computer+Vision)](https://git.io/typing-svg)
+# Bonjour, I'm Nathan !
 
-<h3 align="center">Software Engineer @ <a href='https://www.qualcomm.com/products/application/automotive'>Qualcomm</a> 
+<p align=center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=24&pause=1000&center=true&vCenter=true&width=600&lines=C%2B%2B+Software+Engineer;Firmware+%26+Embedded+Systems;Robotics+and+Machine+Learning" alt="Typing SVG" /></a>
+</p>
+
+<h3 align="center">Software Engineer @ <a href='https://velo3d.com/'>Velo3D</a> 
 </h3>
 
 <br/>
@@ -16,13 +19,6 @@
 
 <br/>
 
-## A little bit about me 
-___
-- Coming from France 🇫🇷 <br/>
-- Interested in working in Robotics, CV and ML 🤖 <br/>
-- Passionated in space exploration, robotics, fitness and health 💪 <br/>
-
-
 <br/>
 
 ## Technologies
@@ -31,14 +27,13 @@ ___
 <p align="center">
     <a href="https://github.com/NathanTouboul?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
     <a href="https://github.com/NathanTouboul?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-    <a href="https://github.com/NathanTouboul?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"></a>
-    <a href="https://github.com/NathanTouboul?tab=repositories&q=&type=&language=jupyter+notebook" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=flat-square&logo=Jupyter"></a>
-    <a target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"></a>
-    <a target="_blank"><img alt="Bash" src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white"></a>
+    <a href="https://github.com/NathanTouboul?tab=repositories&language=typescript" target="_blank"><img alt="Typescript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"></a>
     <a target="_blank"><img alt="Repos" src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white"></a>
-    <a href="https://github.com/NathanTouboul?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
+    <br/>
+    <a target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"></a>
     <a  target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white"></a>
     <a target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"></a>
+    <a href="https://github.com/NathanTouboul?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
     <a href="https://github.com/NathanTouboul?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
     
 </p>
@@ -61,18 +56,9 @@ ___
 <br/>
 
 
-## Always learning! Current courses: 
+## Education
 ___
-
-- https://www.udemy.com/course/advanced-computer-vision/
-- https://www.algoexpert.io/content#algoexpert
-- https://www.algoexpert.io/content#mlexpert
-
-<br/>
-
-## My Education
-___
-- Path and Motion Planning - SLAM - Kalman Filter - Lidar - Autonomous Vehices 👁‍🗨🚗
+- Path and Motion Planning - SLAM - Kalman Filter - Lidar - Autonomous Vehicles 👁‍🗨🚗
 - Machine Learning - Convolutional/Recurrent Neural Networks - Clustering - PCA 💻🌱
 - Control Theory - PID / LQG controllers - Kinematics & Dynamics in  Robotics systems 🤖
 
